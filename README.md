@@ -21,13 +21,3 @@ Honse
 <a href="https://www.youtube.com/watch?v=9VjNfdxyxsI"> Horse </a>
 
 </html>
-
-
-<style>
-
-h1 {color:white;}
-
-h2 {color:white;}
-
-body {background:gray;}
-</style>
