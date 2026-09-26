@@ -90,7 +90,5 @@
 <a href="https://www.youtube.com/watch?v=uDqjIdI4bF4"> Better video explanation by Alan Becker </a> 
 </body>
 
-<a href="https://www.youtube.com/watch?v=uDqjIdI4bF4"> Better video explanation by Alan Becker </a> 
-
 
 </html>
