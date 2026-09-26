@@ -1,5 +1,5 @@
-# Horses
-Honse
+# 12 Principles of Aniamtion
+Animation
 <!DOCTYPE html>
 <html>
 
