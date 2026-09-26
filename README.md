@@ -28,9 +28,12 @@
 
 
 <h2> Principle 4: Straight ahead and pose to pose </h2>
-<p>  </p>
+<p> Straight ahead is when you animate from beginning to end, while pose to pose is when you actually plan out the movements with key frames. </p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0m0_Kleki" src="https://github.com/user-attachments/assets/14cba48c-2a8d-4e5e-b1ff-455352f0aedf" />
+
+<p><i>Straight forward: running</i></p>
+<p><i>pose to pose: kicking</i></p>
 
 
 
