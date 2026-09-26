@@ -39,56 +39,58 @@
 
 
 
-<h2> Principle 6:  </h2>
+<h2> Principle 6: Ease in, Ease out </h2>
 <p>  </p>
 
 <p><i></i></p>
 
 
 
-<h2> Principle 7:  </h2>
+<h2> Principle 7: Arcs </h2>
 <p>  </p>
 
 <p><i></i></p>
 
 
 
-<h2> Principle 8:  </h2>
+<h2> Principle 8: Secondary Action </h2>
 <p>  </p>
 
 <p><i></i></p>
 
 
 
-<h2> Principle 9:  </h2>
+<h2> Principle 9: Timing </h2>
 <p>  </p>
 
 <p><i></i></p>
 
 
 
-<h2> Principle 10:  </h2>
+<h2> Principle 10: Exaggeration </h2>
 <p>  </p>
 
 <p><i></i></p>
 
 
 
-<h2> Principle 11:  </h2>
+<h2> Principle 11: Solid Drawing </h2>
 <p>  </p>
 
 <p><i></i></p>
 
 
 
-<h2> Principle 12:  </h2>
+<h2> Principle 12: Appeal </h2>
 <p>  </p>
 
 <p><i></i></p>
 
+
+<a href="https://www.youtube.com/watch?v=uDqjIdI4bF4"> Better video explanation by Alan Becker </a> 
 </body>
 
-
+<a href="https://www.youtube.com/watch?v=uDqjIdI4bF4"> Better video explanation by Alan Becker </a> 
 
 
 </html>
