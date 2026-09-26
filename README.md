@@ -14,8 +14,8 @@ Honse
 <p> You can make your animations feel more alive by adding squash and stretching to represent something's properties. Make sure to keep the shape the same size, so if the length increases, the width decreases. </p>
 <p><i>Example: when a ball hits the floor, it'll flatten before it springs back up</i>  </p>
 
-<img src="<img width="3169" height="1271" alt="image" src="https://github.com/user-attachments/assets/c5f95c94-42a9-4350-84ed-f5e93c9e1b74" />
-" alt="Princip 1">
+<img width="3169" height="1271" alt="image" src="https://github.com/user-attachments/assets/c5f95c94-42a9-4350-84ed-f5e93c9e1b74" />
+
 
   
 </body>
