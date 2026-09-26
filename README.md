@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-<Title> 12 Principles of Animation</Title>
-</head>
-
 <body>
 <h1> 12 Principals of Animation </h1>
 <p>  You are not forced to abide by these principles, but will most likely be helpful</p>
