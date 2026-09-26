@@ -19,9 +19,11 @@
 <p><i>Example: Crouching down before jumping</i>  </p>
 
 <h2> Principle 3: Staging </h2>
-<p>  </p>
+<p> Like film, you have to be able to position the camera, characters, or objects to let the audience know what they should be focusing on. Too much unnecessary detail can draw attention away from the thing you want them to focus on. Things like lighting, framing, and composition help with staging</p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0ll_Kleki" src="https://github.com/user-attachments/assets/b2c0f8e8-ca69-46df-92e6-9b737291b586" />
+
+<p><i>The spotlight forces the audience to focus on the person in the center rather than the popcorn</i></p>
 
 
 
