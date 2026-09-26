@@ -1,5 +1,3 @@
-# 12 Principles of Aniamtion
-Animation
 <!DOCTYPE html>
 <html>
 
