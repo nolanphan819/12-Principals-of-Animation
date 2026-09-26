@@ -7,7 +7,7 @@
 
 <body>
 <h1> 12 Principals of Animation </h1>
-<p>  You are not restricted by these rules, but are ways to improve animation</p>
+<p>  You are not forced to abide by these principles, but will most likely be helpful</p>
 <h2> Principle 1: Squash and Stretch </h2>
 <p> You can make your animations feel more alive by adding squash and stretching to represent something's properties. Make sure to keep the shape the same size, so if the length increases, the width decreases. </p>
 
