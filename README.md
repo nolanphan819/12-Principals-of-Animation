@@ -30,7 +30,7 @@
 <h2> Principle 4: Straight ahead and pose to pose </h2>
 <p> Straight ahead is when you animate from beginning to end, while pose to pose is when you actually plan out the movements with key frames. </p>
 
-<img width="3169" height="1271" alt="2026_09_26_0m0_Kleki" src="https://github.com/user-attachments/assets/14cba48c-2a8d-4e5e-b1ff-455352f0aedf" />
+<img width="3169" height="1271" alt="2026_09_26_0tb_Kleki" src="https://github.com/user-attachments/assets/0167289e-88ba-475a-8339-6b1dfadbb70e" />
 
 <p><i>Straight forward: running</i></p>
 <p><i>pose to pose: kicking</i></p>
@@ -38,21 +38,25 @@
 
 
 <h2> Principle 5: Follow through and Overlapping </h2>
-<p>  </p>
+<p> Certain parts of a character or object don't move at the same speeds and needs to continue until put to a stop, or else it'll look stiff.  </p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0ts_Kleki" src="https://github.com/user-attachments/assets/665e6864-0c6b-45b1-8e88-7f083b567006" />
+
+<p><i>Example: A tail, the first part moves faster, the other parts follow but move slower. (Its hard to explain without an animated image)</i></p>
 
 
 
 <h2> Principle 6: Ease in, Ease out </h2>
-<p>  </p>
+<p> Real world objects don't instantly move, and usually have an acceleration before reaching that speed. Use more frames at the beginning, and slowly make the object or character go faster until wanted speed. Same applies for stopping, add deceleration</p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0v0_Kleki" src="https://github.com/user-attachments/assets/acb1a271-adbe-4e6a-b86b-d80827f8a475" />
+
+<p><i>Example:Ball move slowly at first, then gains speed, then loses speed.</i></p>
 
 
 
 <h2> Principle 7: Arcs </h2>
-<p>  </p>
+<p> Represents how most things don't move in a straight line, but in arcs, like how your arm moves in an arc. Sometimes these actions happen very fast, which is why people like to use smear frames to show that something is moving really fast. </p>
 
 <p><i></i></p>
 
