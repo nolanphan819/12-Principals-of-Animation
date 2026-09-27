@@ -56,23 +56,29 @@
 
 
 <h2> Principle 7: Arcs </h2>
-<p> Represents how most things don't move in a straight line, but in arcs, like how your arm moves in an arc. Sometimes these actions happen very fast, which is why people like to use smear frames to show that something is moving really fast. </p>
+<p> Represents how most things don't move in a straight line, but in arcs. Sometimes these actions happen very fast, which is why people like to use smear frames to show that something is moving really fast. </p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0vd_Kleki" src="https://github.com/user-attachments/assets/6b20dd0d-882e-455b-9810-d6829ee720b6" />
+
+
+<p><i>Example: Your arm moves in an arc.</i></p>
 
 
 
 <h2> Principle 8: Secondary Action </h2>
-<p>  </p>
+<p> Adding another action to emphasize the main action, but shouldn't draw attention away from the first one.</p>
 
-<p><i></i></p>
+<p><i>Example: Someone's facial expressions after eating something show how much they enjoyed the food (disgust or savor)</i></p>
 
 
 
 <h2> Principle 9: Timing </h2>
-<p>  </p>
+<p> The amount of frames needed in order to represent a speed. The more frames you have of an object moving, the slower it gets. The less frames you have of a moving object, the faster it moves. This also depends on spacing, the further out each frame is, the faster. Works with easing.</p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0vz_Kleki" src="https://github.com/user-attachments/assets/9958c4ee-176d-4157-a468-decff070caba" />
+
+
+<p><i> Slower object Vs. Faster object</i></p>
 
 
 
