@@ -83,23 +83,32 @@
 
 
 <h2> Principle 10: Exaggeration </h2>
-<p>  </p>
+<p> Although realism is good, making your animation too realistic is boring. People like to exaggerate movements or emotions in order to make it a little less dull.</p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0wr_Kleki" src="https://github.com/user-attachments/assets/5c54e27a-412b-4e14-8e4d-1a43ac3ebd92" />
+
+
+<p><i>Examples: A shocked facial expressions could be exaggerated to be jaw dropping facial expression</i></p>
 
 
 
 <h2> Principle 11: Solid Drawing </h2>
-<p>  </p>
+<p> In order to animate you have to have some ability to draw. With proper drawing experience, you are able to make your characters or objects feel more real by giving them dimensions. Make your creations feel 3d and have a weight and volume </p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0xm_Kleki" src="https://github.com/user-attachments/assets/4ce7f415-765a-4b97-b5bf-71fe66b1179e" />
+
+
+<p><i>With this skill you are able to animate your creations from different angles, unless 2d is a stylistic choice.</i></p>
 
 
 
 <h2> Principle 12: Appeal </h2>
-<p>  </p>
+<p> Characters should be drawn in a way that allows the audience to interpret that character based on appearance or actions. How the audience's first impressions should be. </p>
 
-<p><i></i></p>
+<img width="3169" height="1271" alt="2026_09_26_0yn_Kleki" src="https://github.com/user-attachments/assets/48e67619-2e38-449b-be20-de0d2bbda757" />
+
+
+<p><i>Example: Certain shapes give off different impressions. Circular characters are more fun or cute, square characters are seen as sturdy or strong, triangular characters give off a sense of danger.</i></p>
 
 
 <a href="https://www.youtube.com/watch?v=uDqjIdI4bF4"> Better video explanation by Alan Becker </a> 
